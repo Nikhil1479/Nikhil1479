@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Data Analytics<br>👯 I’m looking to collaborate o Machine Learning<br>🌱 I’m currently learning Machine Learning<br>
+🔭 Data Analytics<br>👯 I’m looking to collaborate on Machine Learning<br>🌱 I’m currently learning Machine Learning<br>
 
 
 ## 🌐 Socials:
