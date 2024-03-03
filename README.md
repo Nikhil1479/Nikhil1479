@@ -11,5 +11,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nikhil1479&theme=dark&hide_border=true)<br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=Nikhil1479&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![CI/CD](https://github.com/Nikhil1479/usePopcorn/actions/workflows/node.js.yml/badge.svg)](https://github.com/Nikhil1479/usePopcorn/actions/workflows/node.js.yml)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
